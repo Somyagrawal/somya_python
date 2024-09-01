@@ -1,4 +1,5 @@
 #write your code here
+#n = input("Enter file number: ")
 with open("./data/text7.txt", "r") as file:
     text = file.read()
 #text=input("enter text ")
